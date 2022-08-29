@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+![Screenshot hello_world](images/00.png)
+
+Gambar diatas adalah hasil screenshot pembuatan project flutter baru
+
 ![Screenshot hello_world](images/01.png)
 
 Gambar diatas adalah hasil screenshot yaitu running project hello_world

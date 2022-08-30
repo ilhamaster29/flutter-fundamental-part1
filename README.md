@@ -29,3 +29,8 @@ Gambar diatas adalah tampilan hasil penambahan text_widget.dart pada file main.d
 ![Screenshot hello_world](images/6.cupertinobutton_loadingbar.png)
 
 Gambar diatas adalah tampilan hasil running cupertino button dan loading bar
+
+## 7. Menambahkan Floating Action Button
+![Screenshot hello_world](images/7.floating_action_button.png)
+
+Gambar diatas adalah tampilan hasil running floating action button

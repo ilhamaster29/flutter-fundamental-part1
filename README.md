@@ -33,14 +33,19 @@ Gambar diatas adalah tampilan hasil running cupertino button dan loading bar
 ## 7. Menambahkan Floating Action Button
 ![Screenshot hello_world](images/7.floating_action_button.png)
 
-Gambar diatas adalah tampilan hasil running floating action button
+Gambar diatas adalah tampilan hasil running floating action button.
 
 ## 8. Menambahkan Scaffold Widget
 ![Screenshot hello_world](images/8.scaffold_widget.png)
 
-Gambar diatas adalah tampilan hasil running scaffold widget
+Gambar diatas adalah tampilan hasil running scaffold widget.
 
 ## 9. Menambahkan Dialog Widget
 ![Screenshot hello_world](images/9.dialog_widget.png)
 
-Gambar diatas adalah tampilan hasil running dialog widget
+Gambar diatas adalah tampilan hasil running dialog widget. Ketika tombol show alert ditekan, maka akan muncul dialog box bertuliskan "My title, This is my message."
+
+## 10. Menambahkan Input dan Selecion Widget
+![Screenshot hello_world](images/10.input%26selection_widget.png)
+
+Gambar diatas adalah tampilan hasil running input dan selection widget. Pada emulator (chrome) field "Nama" diisi sesuai input yang kita masukkan lewat keyboard. 

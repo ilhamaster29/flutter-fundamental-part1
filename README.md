@@ -1,6 +1,4 @@
-# hello_world
-
-Laporan Praktikum
+# **Laporan Praktikum**
 
 ![Screenshot hello_world](images/1.project_baru.png)
 

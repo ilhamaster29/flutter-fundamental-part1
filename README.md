@@ -21,3 +21,7 @@ Gambar diatas adalah tampilan hasil penambahan image_widget.dart pada file main.
 ![Screenshot hello_world](images/5.text_widget.png)
 
 Gambar diatas adalah tampilan hasil penambahan text_widget.dart pada file main.dart
+
+![Screenshot hello_world](images/6.cupertinobutton_loadingbar.png)
+
+Gambar diatas adalah tampilan hasil running cupertino button dan loading bar

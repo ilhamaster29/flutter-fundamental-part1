@@ -39,3 +39,8 @@ Gambar diatas adalah tampilan hasil running floating action button
 ![Screenshot hello_world](images/8.scaffold_widget.png)
 
 Gambar diatas adalah tampilan hasil running scaffold widget
+
+## 9. Menambahkan Dialog Widget
+![Screenshot hello_world](images/9.dialog_widget.png)
+
+Gambar diatas adalah tampilan hasil running dialog widget

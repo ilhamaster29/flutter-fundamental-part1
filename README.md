@@ -49,3 +49,8 @@ Gambar diatas adalah tampilan hasil *running* **dialog widget**. Ketika tombol *
 ![Screenshot hello_world](images/10.input%26selection_widget.png)
 
 Gambar diatas adalah tampilan hasil *running* **input dan selection widget**. Pada emulator (chrome), *field* "Nama" diisi sesuai *input* yang kita masukkan lewat keyboard. 
+
+## 10. Menambahkan Date dan Time Picker Widget
+![Screenshot hello_world](images/11.datetimepickers_widget.png)
+
+Gambar diatas adalah tampilan hasil *running* **date dan time picker**. Ketika tombol "Pilih Tanggal" ditekan, maka akan muncul kalender untuk memilih tanggal, bulan dan tahun yang kita inginkan. 

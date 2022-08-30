@@ -34,3 +34,8 @@ Gambar diatas adalah tampilan hasil running cupertino button dan loading bar
 ![Screenshot hello_world](images/7.floating_action_button.png)
 
 Gambar diatas adalah tampilan hasil running floating action button
+
+## 8. Menambahkan Scaffold Widget
+![Screenshot hello_world](images/8.scaffold_widget.png)
+
+Gambar diatas adalah tampilan hasil running scaffold widget

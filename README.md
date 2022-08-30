@@ -10,7 +10,7 @@ Gambar diatas adalah hasil *screenshot* pembuatan *project* flutter baru.
 
 Gambar diatas adalah tampilan hasil *running project* hello_world untuk pertama kali menggunakan *browser* google chrome.
 
-## 3. Penulisan Laporan Praktikum Pada File readme.md
+## 3. Penulisan Laporan Praktikum Pada File README.md
 ![Screenshot hello_world](images/3.laporan_praktikum.png)
 
 Gambar diatas adalah tampilan hasil laporan sementara yang diedit pada file **README.md** di aplikasi vscode.

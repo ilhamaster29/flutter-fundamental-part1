@@ -3,7 +3,7 @@
 ## 1. Membuat Project Flutter Baru
 ![Screenshot hello_world](images/1.project_baru.png)
 
-Gambar diatas adalah hasil screenshot pembuatan project flutter baru
+Gambar diatas adalah hasil screenshot pembuatan project flutter baru.<br>
 
 ![Screenshot hello_world](images/2.running_project-hello_world.png)
 

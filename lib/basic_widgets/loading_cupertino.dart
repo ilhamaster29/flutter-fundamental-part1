@@ -1,8 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
-class MyTextWidget extends StatelessWidget {
-  const MyTextWidget({Key? key}) : super(key: key);
+class CupertinoWidget extends StatelessWidget {
+  const CupertinoWidget({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {

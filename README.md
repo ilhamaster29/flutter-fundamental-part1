@@ -18,12 +18,12 @@ Gambar diatas adalah tampilan hasil laporan sementara yang diedit pada file **RE
 ## 4. Menambahkan Image Widget
 ![Screenshot hello_world](images/4.image_widget.png)
 
-Gambar diatas adalah tampilan hasil penambahan **image_widget.dart** pada file **main.dart**
+Gambar diatas adalah tampilan hasil penambahan **image_widget.dart** pada file **main.dart**.
 
 ## 5. Menambahkan Text Widget
 ![Screenshot hello_world](images/5.text_widget.png)
 
-Gambar diatas adalah tampilan hasil penambahan **text_widget.dart** pada **file main.dart**
+Gambar diatas adalah tampilan hasil penambahan **text_widget.dart** pada **file main.dart**.
 
 ## 6. Menambahkan Cupertino Button dan Loading Bar
 ![Screenshot hello_world](images/6.cupertinobutton_loadingbar.png)
